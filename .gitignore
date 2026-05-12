@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+.venv/
+.ruff_cache/
+.pytest_cache/
+.coverage
+
+# AI
+.lsp.json
+CLAUDE.md
+AGENTS.md
+.claude/
+.codex/

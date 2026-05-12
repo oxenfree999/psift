@@ -1,0 +1,11 @@
+id,item,quantity,price,active,date
+1,notebook,12,3.5,true,2000-01-01
+2,pencil,50,0.75,true,2000-01-02
+3,eraser,18,1.25,false,2000-01-03
+4,folder,30,2.0,true,2000-01-04
+5,marker,20,,false,2000-01-05
+6,stapler,7,6.5,true,2000-01-06
+7,envelope,100,0.1,true,2000-01-07
+8,clipboard,9,4.25,false,2000-01-08
+9,scissors,4,5.0,true,2000-01-09
+10,tape,15,2.75,true,2000-01-10
